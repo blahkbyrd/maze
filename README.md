@@ -1,0 +1,2 @@
+# maze
+create maze automatically
